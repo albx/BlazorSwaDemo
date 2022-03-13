@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CE69DFAB-77A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorSwaDemo.Client", "src\BlazorSwaDemo.Client\BlazorSwaDemo.Client.csproj", "{F9D798F0-5AD9-4CDD-B97C-BC2DBE90D714}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSwaDemo.Api", "src\BlazorSwaDemo.Api\BlazorSwaDemo.Api.csproj", "{9E95CC90-5930-48DC-8995-DB9A17AB8EB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{F9D798F0-5AD9-4CDD-B97C-BC2DBE90D714}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9D798F0-5AD9-4CDD-B97C-BC2DBE90D714}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9D798F0-5AD9-4CDD-B97C-BC2DBE90D714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E95CC90-5930-48DC-8995-DB9A17AB8EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E95CC90-5930-48DC-8995-DB9A17AB8EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E95CC90-5930-48DC-8995-DB9A17AB8EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E95CC90-5930-48DC-8995-DB9A17AB8EB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F9D798F0-5AD9-4CDD-B97C-BC2DBE90D714} = {CE69DFAB-77A8-4F05-9ABE-5697A215A2C9}
+		{9E95CC90-5930-48DC-8995-DB9A17AB8EB0} = {CE69DFAB-77A8-4F05-9ABE-5697A215A2C9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {094BE8A2-0AD7-4E96-BEE2-28711A2410B4}
