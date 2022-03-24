@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorSwaDemo.Client", "src
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorSwaDemo.Api", "src\BlazorSwaDemo.Api\BlazorSwaDemo.Api.csproj", "{9E95CC90-5930-48DC-8995-DB9A17AB8EB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSwaDemo.Shared", "src\BlazorSwaDemo.Shared\BlazorSwaDemo.Shared.csproj", "{5B6DAA2B-7513-44E5-905A-9CDF115D0306}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorSwaDemo.Shared", "src\BlazorSwaDemo.Shared\BlazorSwaDemo.Shared.csproj", "{5B6DAA2B-7513-44E5-905A-9CDF115D0306}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
